@@ -1,5 +1,5 @@
-git add .
-azurerm" {
+
+provider "azurerm" {
   features {}
 }
 
